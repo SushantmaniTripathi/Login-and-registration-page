@@ -58,6 +58,19 @@ This is a simple web-based authentication system that includes user registration
 │── static/              # CSS and other static files
 │── users.db             # SQLite database (generated after first run)
 ```
+# project glimpse
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Usage  
 
